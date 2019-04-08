@@ -9,6 +9,11 @@ pylint = "*"
 [packages]
 django = "==2.1"
 gunicorn = "==19.9.0"
+python = "*"
+3-6-8 = "*"
+3-6 = "*"
+3-6-6 = "*"
+3-7 = "*"
 
 [requires]
-python_version = "3.7.2"
+python_version = "3.7"
